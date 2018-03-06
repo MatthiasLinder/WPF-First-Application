@@ -1,0 +1,30 @@
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\bin\Debug\Human List.exe.config
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\bin\Debug\Human List.exe
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\bin\Debug\Human List.pdb
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List.csprojResolveAssemblyReference.cache
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\obj\Debug\MainWindow.g.cs
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\obj\Debug\App.g.cs
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List_MarkupCompile.cache
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List_MarkupCompile.lref
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\obj\Debug\MainWindow.baml
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List.g.resources
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human_List.Properties.Resources.resources
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List.csproj.GenerateResource.Cache
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List.exe
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List.pdb
+D:\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List.csprojResolveAssemblyReference.cache
+D:\repos\WPF First Application 27.02.2018\Human List\obj\Debug\MainWindow.g.cs
+D:\repos\WPF First Application 27.02.2018\Human List\obj\Debug\App.g.cs
+D:\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List_MarkupCompile.cache
+D:\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List_MarkupCompile.lref
+D:\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List.exe
+D:\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List.pdb
+D:\repos\WPF First Application 27.02.2018\Human List\bin\Debug\Human List.exe.config
+D:\repos\WPF First Application 27.02.2018\Human List\bin\Debug\Human List.exe
+D:\repos\WPF First Application 27.02.2018\Human List\bin\Debug\Human List.pdb
+D:\repos\WPF First Application 27.02.2018\Human List\obj\Debug\MainWindow.baml
+D:\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List.g.resources
+D:\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human_List.Properties.Resources.resources
+D:\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List.csproj.GenerateResource.cache
+D:\repos\WPF First Application 27.02.2018\Human List\obj\Debug\Human List.csproj.CoreCompileInputs.cache

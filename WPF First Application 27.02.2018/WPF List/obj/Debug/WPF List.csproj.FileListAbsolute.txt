@@ -1,0 +1,15 @@
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\bin\Debug\WPF List.exe.config
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\bin\Debug\WPF List.exe
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\bin\Debug\WPF List.pdb
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\obj\Debug\WPF List.csprojResolveAssemblyReference.cache
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\obj\Debug\MainWindow.g.cs
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\obj\Debug\App.g.cs
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\obj\Debug\WPF List_MarkupCompile.cache
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\obj\Debug\WPF List_MarkupCompile.lref
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\obj\Debug\MainWindow.baml
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\obj\Debug\WPF List.g.resources
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\obj\Debug\WPF_List.Properties.Resources.resources
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\obj\Debug\WPF List.csproj.GenerateResource.Cache
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\obj\Debug\WPF List.csproj.CoreCompileInputs.cache
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\obj\Debug\WPF List.exe
+C:\Users\matth\source\repos\WPF First Application 27.02.2018\WPF List\obj\Debug\WPF List.pdb
